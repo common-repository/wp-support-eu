@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: wp-support-eu.php:476
+msgid "Answers"
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:70
+msgid "Articles"
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:68
+msgid "Ask!"
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:58
+msgid "Click here to add it"
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:460
+msgid "Click here to add it now"
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:60
+msgid "Click here to login"
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:104
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:115
+msgid "Get an invite!"
+msgstr ""
+
+#. Text in function
+#: wp-support-eu.php:221
+msgid "Invalid Token. Please refresh the page and try again."
+msgstr ""
+
+#. Text in function
+#: wp-support-eu.php:221
+msgid "Invalid question and/or question title. Please try again."
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:114
+msgid "It's Free!"
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:448
+#: wp-support-eu.php:455
+msgid "Login error. Please check your email address and app key and try again"
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:452
+msgid "Login failed multiple times. For your security we have restricted your account for 24 hours. Please try again tomorrow"
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:449
+msgid "Number of tries left: "
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:460
+msgid "Please add this site to your WPSupport.eu account"
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:71
+msgid "Promotions"
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:434
+msgid "Question title"
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:114
+msgid "Request an invite for a WPSupport.eu account."
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:462
+msgid "Something went wrong. Please try again later"
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:438
+msgid "Submit Question"
+msgstr ""
+
+#. Text in function
+#: wp-support-eu.php:221
+msgid "There was a problem processing your request. Please try again."
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:58
+msgid "You are not logged in because your website was not added to your WPSupport.EU account."
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:60
+msgid "You are not logged in."
+msgstr ""
+
+#. Text in function
+#: wp-support-eu.php:221
+msgid "You have reached the maximum number of questions for today. Please try again in 24h."
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:443
+msgid "You need to be logged into your WPSupport.eu account to ask a question."
+msgstr ""
+
+#. Text in echo
+#: wp-support-eu.php:69
+msgid "Your Questions"
+msgstr ""
+
+#. Text in function
+#: wp-support-eu.php:221
+msgid "Your question was submitted for approval. We will do our best to publish it and find an answer in the shortest time."
+msgstr ""

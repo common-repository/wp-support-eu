@@ -1,0 +1,50 @@
+.wpseu_full_width{
+	width:100%;
+}
+#wpseu_dashboard_widget h3.hndle {
+	background: #2b5797;
+	color: #FFF;
+}
+#wpseu_dashboard_widget h3.hndle span:before {
+content: "\f155";
+font-family: dashicons;
+padding: 0px 5px 0 0;
+font-weight: normal;
+display: block;
+float: left;
+}
+.wpseu_info span:before {
+content: "\f348";
+color: #F00;
+font-family: dashicons;
+font-size: 20px;
+display: block;
+float: left;
+padding-right: 3px;
+}
+#wpseu_dashboard_widget h4, #wpseu_dashboard_widget h4 a{
+	font-weight:bold;
+}
+#wpseu_dashboard_widget .handlediv{
+	color:#ffffff;
+}
+span.wpseu_answers_no {
+	background: #2B5797;
+	display: inline-block;
+	padding: 6px;
+	color: #FFF;
+	border-radius: 25px;
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+}
+textarea.invalid, input.invalid{
+	border:1px solid #cc010b;
+	background:#ffebe8
+}
+img.wpseu_loading {
+max-height: 28px;
+vertical-align: bottom;
+padding: 0 10px;
+}
